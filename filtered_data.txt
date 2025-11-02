@@ -1,0 +1,8 @@
+[{
+    "text": "Acho que cai no golpe do pix 🥹",
+    "username": "realillyties",
+    "name": "lilly",
+    "location": null,
+    "source": "twitter",
+    "fraud_probability": 0.9
+}]
